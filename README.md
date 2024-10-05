@@ -1,5 +1,6 @@
 # DLD-project
 #4 way traffic control without microcontroller
+
 This was my university Digital Logic Design Poject
 
 This project was inspired from this youtube video:
